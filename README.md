@@ -1,2 +1,9 @@
-# Workshop
- Pagina de cadastro de um Workshop
+# Workshop project
+
+HTML CSS
+
+Captura de email, marketing
+
+Pagina de cadastro de um Workshop
+* mailchip
+
